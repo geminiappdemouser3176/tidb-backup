@@ -1,0 +1,40 @@
+issue_id,date,round,tester,build,area,severity,status,github_issue,summary
+FB-001,2026-05-13,PR1,isla_b,v0.1-vslice,dialogue,major,fixed,#12,dialogue advance eats the first input while text is typing
+FB-003,2026-05-13,PR1,marrowfog,v0.1-vslice,narrative,minor,next build,#14,controller glyphs missing on the pause menu
+FB-004,2026-05-14,PR1,nautika,v0.1-vslice,settings,polish,next build,#15,logbook marker easy to miss in the corner
+FB-002,2026-05-15,PR1,saltandslack,v0.1-vslice,performance,polish,backlog,#13,foghorn ambience loops audibly every ~20s
+FB-006,2026-05-20,PR2,foglight99,v0.1-vslice,narrative,polish,next build,#17,typewriter speed feels a touch fast on long lines
+FB-007,2026-05-21,PR2,gullery,v0.1-vslice,performance,minor,fixed,#18,controller glyphs missing on the pause menu
+FB-005,2026-05-26,PR2,isla_b,v0.1-vslice,save/load,blocker,fixed,#16,save.json corrupts when quitting mid-dialogue
+FB-010,2026-05-28,PR3,isla_b,v0.1-vslice,dialogue,polish,next build,#21,one dialogue node has a stray double space
+FB-008,2026-06-01,PR3,isla_b,v0.1-vslice,UI/HUD,minor,fixed,#19,interaction prompt lingers while dialogue is open
+FB-009,2026-06-03,PR3,marrowfog,v0.1-vslice,narrative,polish,fixed,#20,tab order skips the Back button in settings
+FB-011,2026-06-03,PR3,gullery,v0.1-vslice,narrative,polish,wontfix,#22,radio static a little too quiet vs the music bed
+FB-013,2026-06-04,PR4,nautika,v0.1-vslice,performance,polish,fixed,#24,lantern glow clips at the screen edge near the door
+FB-012,2026-06-05,PR4,isla_b,v0.1-vslice,settings,minor,fixed,#23,settings volume slider not initialised to current level
+FB-014,2026-06-11,PR4,isla_b,v0.1-vslice,controls,minor,wontfix,#25,radio static a little too quiet vs the music bed
+FB-019,2026-06-12,PR5,foglight99,demo-wip,dialogue,polish,next build,#30,tab order skips the Back button in settings
+FB-016,2026-06-15,PR5,nautika,demo-wip,UI/HUD,polish,next build,#27,one dialogue node has a stray double space
+FB-015,2026-06-16,PR5,isla_b,demo-wip,dialogue,major,fixed,#26,choices are selectable before the line finishes typing
+FB-017,2026-06-16,PR5,saltandslack,demo-wip,dialogue,minor,wontfix,#28,foghorn ambience loops audibly every ~20s
+FB-018,2026-06-18,PR5,pixelpetrel,demo-wip,UI/HUD,minor,fixed,#29,tab order skips the Back button in settings
+FB-020,2026-06-19,PR5,dm_ren,demo-wip,save/load,polish,fixed,#31,fullscreen toggle needs an apply confirmation
+FB-023,2026-06-26,PR6,foglight99,demo-wip,performance,minor,backlog,#34,prompt text hard to read against the lit floor tile
+FB-024,2026-06-29,PR6,brackish,demo-wip,save/load,minor,wontfix,#35,one dialogue node has a stray double space
+FB-021,2026-06-30,PR6,isla_b,demo-wip,narrative,major,fixed,#32,keeper flag not set on the 'keep it quiet' branch
+FB-022,2026-07-02,PR6,lowtidelou,demo-wip,audio,minor,wontfix,#33,controller glyphs missing on the pause menu
+FB-028,2026-07-03,PR7,marrowfog,demo-wip,dialogue,polish,fixed,#39,foghorn ambience loops audibly every ~20s
+FB-029,2026-07-03,PR7,foglight99,demo-wip,settings,polish,next build,#40,credits scroll slightly too fast to read
+FB-030,2026-07-03,PR7,saltandslack,demo-wip,settings,polish,wontfix,#41,'Continue' wording unclear when no save exists
+FB-025,2026-07-08,PR7,isla_b,demo-wip,controls,major,fixed,#36,settings overlay has no keyboard/gamepad focus
+FB-027,2026-07-08,PR7,marrowfog,demo-wip,UI/HUD,polish,next build,#38,fullscreen toggle needs an apply confirmation
+FB-026,2026-07-09,PR7,saltandslack,demo-wip,audio,minor,next build,#37,tab order skips the Back button in settings
+FB-033,2026-07-10,PR8,pixelpetrel,demo-wip,UI/HUD,polish,next build,#44,lantern glow clips at the screen edge near the door
+FB-031,2026-07-13,PR8,isla_b,demo-wip,UI/HUD,minor,fixed,#42,dialogue box overflows at 1080p
+FB-032,2026-07-13,PR8,gullery,demo-wip,narrative,polish,next build,#43,radio static a little too quiet vs the music bed
+FB-034,2026-07-13,PR8,saltandslack,demo-wip,performance,polish,fixed,#45,lantern glow clips at the screen edge near the door
+FB-035,2026-07-13,PR8,dm_ren,demo-wip,dialogue,polish,wontfix,#46,logbook marker easy to miss in the corner
+FB-036,2026-07-20,PR9,isla_b,demo-wip,save/load,major,fixed,#47,no confirmation before overwriting a save slot
+FB-037,2026-07-23,PR9,tidewatcher,demo-wip,controls,polish,next build,#48,radio static a little too quiet vs the music bed
+FB-038,2026-07-23,PR9,isla_b,demo-wip,UI/HUD,minor,fixed,#49,prompt text hard to read against the lit floor tile
+FB-039,2026-07-24,PR9,dm_ren,demo-wip,dialogue,polish,backlog,#50,radio static a little too quiet vs the music bed
